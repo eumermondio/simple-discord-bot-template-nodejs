@@ -1,14 +1,34 @@
 # Discord Bot Template
 
-A simple discord bot template ready to use!
+A simple and easy discord bot template ready to use!
 
 Made with ❤ by eumermondio
 
-## Getting started
+## Table of contents
 
-* [<a href="#Requirements">Requirements</a>]
-* * [<a href="#Git">Git</a>]
-* * [<a href="#NodeJS">NodeJS</a>]
+- [Requirements](#Requirements)
+    * [Git](#Git)
+        + [Downloading git](#Downloading-git)
+        + [Installing git](#Installing-git)
+    * [NodeJS](#NodeJS)
+        + [Downloading NodeJS](#Downloading-NodeJS)
+        + [Installing NodeJS](#Installing-NodeJS)
+    * [Visual Studio Code](#Visual-Studio-Code)
+        + [Downloading Visual Studio Code](#Downloading-Visual-Studio-Code)
+        + [Installing Visual Studio Code](#Installing-Visual-Studio-Code)
+- [Getting started](#Getting-started)
+    * [Fork this repo](#Fork-this-repo)
+    * [Create a folder](#Create-a-folder)
+    * [Open that folder with Visual Studio Code](#Open-that-folder-with-Visual-Studio-Code)
+    * [Initialize git on that folder](#Initialize-git-on-that-folder)
+    * [Clone the forked repo](#Clone-the-forked-repo)
+    * [Setting up npm](#Setting-up-npm)
+    * [Create a discord application](#Create-a-discord-application)
+    * [Bot token](#Bot-token)
+    * [Run your bot](#Run-your-bot)
+- [License](#license)
+
+## Requirements
 
 1st Fork repo
 2nd Create a folder on desktop
