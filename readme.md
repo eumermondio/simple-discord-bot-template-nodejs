@@ -7,16 +7,13 @@ Made with ❤ by eumermondio
 ## Table of contents
 
 - [Requirements](#Requirements)
+
     * [Git](#Git)
-        + [Downloading git](#Downloading-git)
-        + [Installing git](#Installing-git)
     * [NodeJS](#NodeJS)
-        + [Downloading NodeJS](#Downloading-NodeJS)
-        + [Installing NodeJS](#Installing-NodeJS)
     * [Visual Studio Code](#Visual-Studio-Code)
-        + [Downloading Visual Studio Code](#Downloading-Visual-Studio-Code)
-        + [Installing Visual Studio Code](#Installing-Visual-Studio-Code)
+
 - [Getting started](#Getting-started)
+
     * [Fork this repo](#Fork-this-repo)
     * [Create a folder](#Create-a-folder)
     * [Open that folder with Visual Studio Code](#Open-that-folder-with-Visual-Studio-Code)
@@ -26,9 +23,20 @@ Made with ❤ by eumermondio
     * [Create a discord application](#Create-a-discord-application)
     * [Bot token](#Bot-token)
     * [Run your bot](#Run-your-bot)
-- [License](#license)
+
+- [License](#License)
 
 ## Requirements
+
+### Git
+
+### NodeJS
+
+### Visual Studio Code
+
+## Licence
+
+MIT
 
 1st Fork repo
 2nd Create a folder on desktop
