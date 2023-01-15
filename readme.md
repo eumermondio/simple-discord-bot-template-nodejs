@@ -34,7 +34,7 @@ Made with ❤ by eumermondio
 
 ### Visual Studio Code
 
-## Licence
+## License
 
 MIT
 
